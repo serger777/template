@@ -1,0 +1,6 @@
+/app/bower
+/node_modules
+dist
+.idea
+.sass-cache
+/vendor/
