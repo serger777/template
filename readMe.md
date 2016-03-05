@@ -1,6 +1,6 @@
 >Инструкция по установке моего приложения
 
-1. git clone https://github.com/serger777/teplate
+1. git clone https://github.com/serger777/template
 2. cd site
 3. npm install
 4. bower install
