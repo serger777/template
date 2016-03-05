@@ -1,6 +1,6 @@
 >Инструкция по установке моего приложения
 
-1. git clone https://github.com/serger777/generate
+1. git clone https://github.com/serger777/teplate
 2. cd site
 3. npm install
 4. bower install
