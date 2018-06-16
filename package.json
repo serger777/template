@@ -1,9 +1,9 @@
 {
-  "name": "shop",
+  "name": "template",
   "version": "1.0.0",
   "description": "template for good works",
   "main": "gulpfile.js",
-  "repository" : "https://github.com/serger777/shop",
+  "repository": "https://github.com/serger777/shop",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
